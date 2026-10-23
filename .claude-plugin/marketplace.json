@@ -1,0 +1,15 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "blow-up-my-social-media",
+  "description": "Retention-backward organic social growth for six platforms, with dated platform rules.",
+  "owner": {
+    "name": "Inspired Spitfire"
+  },
+  "plugins": [
+    {
+      "name": "blow-up-my-social-media",
+      "source": "./",
+      "description": "Retention-backward organic social growth across six platforms, with dated platform rules and a comment-gate fulfilment loop."
+    }
+  ]
+}
